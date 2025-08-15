@@ -1,69 +1,120 @@
-# 🎯 Post İçerikleri ve Şablonları
+# 📝 Post İçerikleri ve Şablonları
 
-> Bu klasör, Instagram postları için tüm içerikleri, şablonları ve stratejileri içerir.
+> Instagram post içerikleri için tüm kaynaklar, şablonlar ve stratejiler
 
-## 📋 **İçerik Listesi**
+## 🎯 **Post Kategorileri**
 
-### 🚀 **Başlangıç Serisi**
-- [Hoş Geldiniz Postu](./baslangic/hos-geldiniz-postu.md)
-- [Kod Nedir?](./baslangic/kod-nedir.md)
-- [İlham Verici Alıntılar](./baslangic/ilham-verici-alintilar.md)
+### 🚀 [Başlangıç Seviyesi](./baslangic/)
+- Programlama temelleri
+- İlk kod yazma deneyimleri
+- Motivasyon postları
+- Başlangıç ipuçları
 
-### 💻 **Teknik Konular**
-- [VS Code Kısayolları](./teknik/vscode-kisayollari.md)
-- [Git Temelleri](./teknik/git-temelleri.md)
-- [Framework Nedir?](./teknik/framework-nedir.md)
-- [API Nedir?](./teknik/api-nedir.md)
+### 💻 [Teknik İçerikler](./teknik/)
+- Kod örnekleri
+- Programlama dilleri
+- Framework'ler
+- Best practices
 
-### 🐛 **Yazılımcı Deneyimleri**
-- [En Sık Yapılan Hatalar](./deneyimler/en-sik-hatalar.md)
-- [Bug Bulma Anı](./deneyimler/bug-bulma-ani.md)
-- [Kod Yazarken vs Çalıştırırken](./deneyimler/kod-yazarken-vs-calisirken.md)
+### 🎓 [Eğitim İçerikleri](./egitim/)
+- Adım adım öğreticiler
+- Video serileri
+- Quiz ve testler
+- Ödev önerileri
 
-### 📚 **Eğitim İçerikleri**
-- [Programlama Dilleri 2025](./egitim/programlama-dilleri-2025.md)
-- [Yazılımda Motivasyon](./egitim/yazilimda-motivasyon.md)
-- [Kariyer Yolu](./egitim/kariyer-yolu.md)
+### 🚨 [Hata Çözümleri](./hata-cozumleri/)
+- Yaygın hatalar
+- Debugging ipuçları
+- Stack Overflow çözümleri
+- Troubleshooting rehberi
 
-### 🎨 **Post Şablonları**
-- [Liste Formatı](./sablonlar/liste-formati.md)
-- [Karşılaştırma Formatı](./sablonlar/karsilastirma-formati.md)
-- [Soru-Cevap Formatı](./sablonlar/soru-cevap-formati.md)
-- [İpucu Formatı](./sablonlar/ipucu-formati.md)
+### 🎨 [Proje Showcase](./proje-showcase/)
+- Tamamlanan projeler
+- Portfolio örnekleri
+- GitHub repo tanıtımları
+- Live demo'lar
 
-### 🏷️ **Hashtag Stratejileri**
-- [Ana Hashtag'ler](./hashtag/ana-hashtagler.md)
-- [Trend Hashtag'ler](./hashtag/trend-hashtagler.md)
-- [Niche Hashtag'ler](./hashtag/niche-hashtagler.md)
+### 💡 [İpuçları ve Tricks](./ipuculari/)
+- Kısayollar
+- Verimlilik artırma
+- Gizli özellikler
+- Pro tips
 
----
+### 🌟 [Başarı Hikayeleri](./basari-hikayeleri/)
+- Öğrenci başarıları
+- Kariyer gelişimi
+- Motivasyon hikayeleri
+- İlham verici içerikler
 
-## 📝 **Post Yazma Kuralları**
+### 🔥 [Trend Konular](./trend-konular/)
+- Güncel teknolojiler
+- Popüler framework'ler
+- Yeni programlama dilleri
+- AI ve ML trendleri
 
-1. **Başlık:** Dikkat çekici ve net
-2. **Açıklama:** 2-3 cümle, maksimum
-3. **Call-to-Action:** Takipçiyi harekete geçir
-4. **Hashtag:** 15-20 hashtag kullan
-5. **Görsel:** Yüksek kalite, tutarlı stil
+## 📊 **Post Formatları**
 
----
+### 📱 **Görsel Postlar**
+- Infografikler
+- Kod ekran görüntüleri
+- Karşılaştırma tabloları
+- İstatistik grafikleri
 
-## 🎯 **Hedef Kitle**
+### 📝 **Metin Odaklı Postlar**
+- Uzun form içerikler
+- Liste formatları
+- Soru-cevap
+- Hikaye anlatımı
 
-- **Ana hedef:** Yazılım öğrenmeye yeni başlayanlar
-- **İkincil hedef:** Orta seviye geliştiriciler
-- **Yaş grubu:** 18-35
-- **İlgi alanları:** Teknoloji, programlama, kariyer gelişimi
+### 🎬 **Carousel Postlar**
+- Adım adım rehberler
+- Karşılaştırmalar
+- Öncesi-sonrası
+- Çoklu ipuçları
 
----
+## 🏷️ **Hashtag Stratejisi**
 
-## 📊 **Etkileşim Metrikleri**
+### 🔥 **Popüler Hashtag'ler**
+- #coding #programming #developer
+- #javascript #python #webdev
+- #codinglife #programmer #tech
 
-- **Beğeni hedefi:** %8-12
-- **Yorum hedefi:** %2-4
-- **Kaydetme hedefi:** %3-5
-- **Paylaşım hedefi:** %1-2
+### 🎯 **Niche Hashtag'ler**
+- #codingbeginner #learntocode
+- #codingbootcamp #selfstudy
+- #codingcommunity #devcommunity
 
----
+### 📍 **Lokal Hashtag'ler**
+- #türkiyede #istanbul #ankara
+- #türkyazılımcı #türkdeveloper
+- #türkiyeprogramlama
 
-> 💡 **İpucu:** Her post için önce taslak hazırla, sonra görsel ekle, en son hashtag'leri ekle!
+## ⏰ **Paylaşım Zamanları**
+
+- **En iyi saatler:** 12:00-14:00, 18:00-20:00
+- **Hafta sonu:** 10:00-12:00, 16:00-18:00
+- **Hafta içi:** 12:00-13:00, 19:00-21:00
+
+## 📈 **Etkileşim Artırma**
+
+- Soru sorun
+- Call-to-action ekleyin
+- Hikaye paylaşın
+- Topluluk etkileşimi
+- User-generated content
+
+## 🎨 **Görsel Önerileri**
+
+- **Renkler:** Mavi, yeşil, siyah tonları
+- **Fontlar:** Monospace, modern sans-serif
+- **Stil:** Minimal, temiz, profesyonel
+- **Boyut:** 1080x1080px (Instagram square)
+
+## 📋 **Post Kontrol Listesi**
+
+- [ ] Görsel hazır mı?
+- [ ] Caption yazıldı mı?
+- [ ] Hashtag'ler eklendi mi?
+- [ ] Call-to-action var mı?
+- [ ] Zaman planlandı mı?
+- [ ] Etkileşim için hazır mı?
