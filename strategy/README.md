@@ -91,6 +91,26 @@
 
 ---
 
+## 🎭 **PSİKOLOJİK MARKALAMA (PSYCHOLOGICAL BRANDING)**
+
+### 🧠 **Bilişsel Tetikleyiciler (Cognitive Triggers)**
+- **Authority Bias:** Teknik derinlik göstererek "uzman" algısı yaratmak.
+- **Social Proof:** Başarı hikayeleri ve topluluk geri bildirimlerini kullanmak.
+- **Scarcity/Urgency:** "Sadece bugün geçerli" veya "İlk 100 kişi için" gibi kurgular.
+- **Dopamine Loop:** Bilgi parçacıklarını (Quick Wins) küçük dozlarda vererek bağımlılık yaratmak.
+
+### 📡 **Dijital Nüfuz (Digital Influence) Modeli**
+```mermaid
+graph TD
+    A["🛡️ Güven (Trust)"] --> B["🎓 Bilgi (Authority)"]
+    B --> C["🤝 Etkileşim (Community)"]
+    C --> D["💰 Dönüşüm (Loyalty/Action)"]
+    
+    click A "https://github.com/bahattinyunus/code_with_yunus/_MANIFESTO.md" "Manifestoyu Oku"
+```
+
+---
+
 ## 📊 **İçerik Dağılımı**
 
 ### **Haftalık İçerik:**

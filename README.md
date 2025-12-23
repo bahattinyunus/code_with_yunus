@@ -10,6 +10,9 @@
 
 ## 🛰️ **Operasyonel Merkez**
 
+> [!TIP]
+> **Stratejik Vizyon:** Bu projenin ruhunu anlamak için [Manifesto](./_MANIFESTO.md) dosyasını inceleyin. Operasyonel mükemmellik için [Stratejik Protokol](./STRATEGIC_PROTOCOL.md) kılavuzunu takip edin.
+
 Bu depo, `code_with_yunus` Instagram markasının dijital omurgasını oluşturur. Tüm içerik üretim süreçleri, stratejik planlamalar ve teknik dokümantasyon burada merkezi bir şekilde yönetilir.
 
 ### 🏗️ **İçerik Üretim Hattı**
@@ -36,6 +39,7 @@ graph LR
 | **📊 Strateji** | Algoritma optimizasyonu ve büyüme taktikleri | [Görüntüle](./strategy/) |
 | **🎨 Tasarım** | Marka kimliği ve görsel varlıklar | [Görüntüle](./design/) |
 | **📝 Araçlar** | AI destekli üretim ve analiz araçları | [Görüntüle](./tools/) |
+| **📋 Şablonlar** | [NEW] Standart üretim blueprintleri | [Görüntüle](./_TEMPLATES/) |
 
 ---
 

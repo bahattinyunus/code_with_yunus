@@ -228,23 +228,34 @@
 
 ## 🚀 **Viral Reel Teknikleri**
 
+### 🏗️ **Viral Mimari (Viral Architecture)**
+
+```mermaid
+graph TD
+    A["🧲 Kanca (Hook) - 0-3s"] --> B["📢 Sorun Tanımı - 3-10s"]
+    B --> C["💡 Çözüm/Değer - 10-45s"]
+    C --> D["⚡ Dopamin Vuruşu (Quick Win) - 45-55s"]
+    D --> E["🚀 Aksiyon Çağrısı (CTA) - 55-60s"]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style E fill:#00ff00,stroke:#333,stroke-width:4px
+```
+
 ### ⚡ **Hook Stratejileri**
-- İlk 3 saniyede dikkat çek
-- Soru sor veya şaşırt
-- Hızlı hareket veya animasyon
-- Güncel trend kullan
+- **Negative Hook:** "Bunu yapmayı hemen bırak!" (Merak uyandırır).
+- **Transformation Hook:** "X'ten Y'ye nasıl geldim?" (İlham verir).
+- **Logic Hook:** "Neden X kullanmalısın?" (Otorite kurar).
+- **Speed Hook:** "5 saniyede X yapmak." (Verimlilik odaklı).
 
-### 📱 **Retention Teknikleri**
-- Her 5 saniyede yeni bilgi
-- Görsel değişiklikler
-- Ses varyasyonları
-- Interactive elementler
+### 📱 **Retention (Elde Tutma) Teknikleri**
+- **Pattern Interrupt:** Görseli veya sesi aniden değiştirerek beyni meşgul tut.
+- **Subtitles:** Her kelimeyi değil, sadece anahtar kelimeleri vurgula.
+- **Looping:** Videonun başı ve sonunu öyle bir birleştir ki izleyici bittiğini anlamasın.
 
-### 🔄 **Shareability**
-- Değerli bilgi içer
-- Eğlenceli ve ilginç
-- Relatable content
-- Call-to-action ekle
+### 🔄 **Shareability (Paylaşılabilirlik)**
+- **Saveable Value:** "Bunu sonra kullanmak için kaydet" (Arşivlik bilgi).
+- **Relatable Humour:** "Yazılımcıların %99'u bunu yaşıyor" (Topluluk aidiyeti).
+- **Expert Insight:** Başka yerde bulunmayan bir teknik detay.
 
 ## 📋 **Reel Kontrol Listesi**
 
